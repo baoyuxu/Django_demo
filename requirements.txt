@@ -1,5 +1,5 @@
 diff-match-patch
-Django=2.0.2
+Django=2.0.11
 django-crispy-forms
 django-formtools
 django-import-export
